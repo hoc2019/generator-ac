@@ -19,4 +19,6 @@ npm link generator-ac
 
 ### 使用
 
+在项目根目录执行, 根据需要输入或选择配置
+
 yo ac
