@@ -6,10 +6,15 @@
 ### 安装
 
 npm install -g yo
+
 git clone generator-ac
+
 cd generator-ac
+
 npm link
+
 cd your project
+
 npm link generator-ac
 
 ### 使用
