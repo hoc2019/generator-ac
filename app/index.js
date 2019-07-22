@@ -10,7 +10,7 @@ module.exports = class extends generators{
     }
     initializing() {
         this.props = {};
-        const msg = chalk.bgBlack.red.bold('\n welcome ac') + chalk.underline('www.baidu.com\n');
+        const msg = chalk.bgBlack.red.bold('\n welcome ac') + chalk.underline('https://github.com/hoc2019\n');
         this.log(yosay(msg));
     }
     configuring() {
