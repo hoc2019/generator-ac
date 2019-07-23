@@ -11,6 +11,8 @@ git clone generator-ac
 
 cd generator-ac
 
+npm i
+
 npm link
 
 cd your project
