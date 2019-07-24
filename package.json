@@ -1,13 +1,13 @@
 {
   "name": "generator-ac",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "generators/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "templates"
+    "generators"
   ],
   "keywords": [
     "yeoman-generator"

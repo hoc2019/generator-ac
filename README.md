@@ -7,17 +7,7 @@
 
 npm install -g yo
 
-git clone generator-ac
-
-cd generator-ac
-
-npm i
-
-npm link
-
-cd your project
-
-npm link generator-ac
+npm i -g generator-ac
 
 ### 使用
 
