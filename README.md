@@ -7,7 +7,7 @@
 
 npm install -g yo
 
-npm i -g generator-ac
+npm install -g generator-ac
 
 ### 使用
 
