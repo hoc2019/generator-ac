@@ -5,6 +5,7 @@
  */
 import React from 'react';
 import <%= componentName %> from '../../packages/template/<%= componentName %>';
+import { getPageIndex } from '../../packages/utils/tools';
 
 const templateName = '<%= componentName %>';
 const page = () => {
