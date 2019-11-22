@@ -86,7 +86,7 @@ module.exports = class extends generators{
         if (name) {
             this.fs.copyTpl(
                 this.templatePath('module/'),
-                this.destinationPath(`src/packages/template/${componentName}`), 
+                this.destinationPath(`src/packages/template/${componentName}${page ? `_${page}` : ''}`), 
                 context
             );
         }
